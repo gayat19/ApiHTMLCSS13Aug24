@@ -2,6 +2,8 @@ API - Application Programming Interface
 
 RESTful API -> Representational State Transfer 
 
+
+Request<->Response
 CRUD ->
 http://localhost:5188/Product
 
@@ -22,3 +24,12 @@ Reff - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 Open API
 https://swagger.io/specification/
+Postman Download 
+https://www.postman.com/downloads/
+
+
+ASP.NET core API Controller 
+https://learn.microsoft.com/en-us/previous-versions/aspnet/hh834453(v=vs.118)
+
+
+curl 'GET' 'http://localhost:59303/api/Student'
