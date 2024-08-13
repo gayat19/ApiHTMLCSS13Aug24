@@ -1,0 +1,24 @@
+API - Application Programming Interface
+
+RESTful API -> Representational State Transfer 
+
+CRUD ->
+http://localhost:5188/Product
+
+HTTP Verbs
+GET  - http://localhost:5188/Product - Fetch the data - Read
+POST - http://localhost:5188/Product - Add a new data - Create
+PUT/PATCH - http://localhost:5188/Product - Update the data - Update
+DELETE - http://localhost:5188/Product - Removes the data - Delete
+
+HTTP Response status codes
+1XX - Information
+2XX - Success
+3XX - Redirection
+4XX - Client side error
+5XX - Server side error
+Reff - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+Open API
+https://swagger.io/specification/
