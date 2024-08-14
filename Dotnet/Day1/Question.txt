@@ -1,0 +1,3 @@
+Create a new API Application that will show a list of products that are available for sale
+
+The API should also allow user to add new product

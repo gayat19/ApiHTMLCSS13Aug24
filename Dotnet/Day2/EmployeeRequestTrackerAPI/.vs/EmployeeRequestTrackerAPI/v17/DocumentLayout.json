@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\exceptions\\unabletoaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:exceptions\\unabletoaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day2\\employeerequesttrackerapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA5B72F-DA53-4CE9-9077-4750B72DEC23}|EmployeeRequestTrackerAPI.csproj|solutionrelative:interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:30:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:15:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:12:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnableToAddException.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Exceptions\\UnableToAddException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\UnableToAddException.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Exceptions\\UnableToAddException.cs",
+              "RelativeToolTip": "Exceptions\\UnableToAddException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:24:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:19:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:14:43.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:12:59.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Model - Employee
+EF - Table
+Service - Employee object creation, Updating details, Soft delete employee, Get employee	
+Repository - Employee object creation, Updating details, Delete employee, Get employee
+
+
+DI - Scoped, Transient, Singleton
+
+G3SLAPTOP\SQLEXPRESS
+
+{
+  "ConnectionStrings": {
+    "BloggingDatabase": "Server=G3SLAPTOP\\SQLEXPRESS;Database=dbEmployeeRequetTracker;Trusted_Connection=True;"
+  },
+}
