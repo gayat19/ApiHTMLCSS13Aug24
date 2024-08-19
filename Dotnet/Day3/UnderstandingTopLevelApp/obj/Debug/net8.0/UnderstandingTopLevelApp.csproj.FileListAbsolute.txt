@@ -1,0 +1,15 @@
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\bin\Debug\net8.0\UnderstandingTopLevelApp.exe
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\bin\Debug\net8.0\UnderstandingTopLevelApp.deps.json
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\bin\Debug\net8.0\UnderstandingTopLevelApp.runtimeconfig.json
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\bin\Debug\net8.0\UnderstandingTopLevelApp.dll
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\bin\Debug\net8.0\UnderstandingTopLevelApp.pdb
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.AssemblyInfoInputs.cache
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.AssemblyInfo.cs
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.csproj.CoreCompileInputs.cache
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.sourcelink.json
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.dll
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\refint\UnderstandingTopLevelApp.dll
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.pdb
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\UnderstandingTopLevelApp.genruntimeconfig.cache
+D:\Corp\Dover\Participants\Dotnet\Day3\UnderstandingTopLevelApp\obj\Debug\net8.0\ref\UnderstandingTopLevelApp.dll
