@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:services\\customerauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\interfaces\\icustomerauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:interfaces\\icustomerauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\models\\dtos\\customerloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:models\\dtos\\customerloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,24 +43,16 @@
       "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\interfaces\\icustomerauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:interfaces\\icustomerauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\models\\dtos\\customerloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:models\\dtos\\customerloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\shoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:shoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Migrations\\20240820083524_CustomerUpdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240820083524_CustomerUpdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\migrations\\20240819071017_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:migrations\\20240819071017_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|d:\\corp\\dover\\participants\\dotnet\\day3\\shoppingapi\\migrations\\20240820083524_customerupdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8856811-0D5E-4267-B852-DF0F593CE8FD}|ShoppingAPI.csproj|solutionrelative:migrations\\20240820083524_customerupdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,20 +76,20 @@
               "RelativeDocumentMoniker": "Controllers\\CustomerAuthenticationController.cs",
               "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Controllers\\CustomerAuthenticationController.cs",
               "RelativeToolTip": "Controllers\\CustomerAuthenticationController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAIAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T09:03:27.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ICustomerAuthentication.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Interfaces\\ICustomerAuthentication.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICustomerAuthentication.cs",
               "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Interfaces\\ICustomerAuthentication.cs",
               "RelativeToolTip": "Interfaces\\ICustomerAuthentication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T08:50:26.371Z",
               "EditorCaption": ""
@@ -102,27 +102,14 @@
               "RelativeDocumentMoniker": "Services\\CustomerAuthenticationService.cs",
               "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Services\\CustomerAuthenticationService.cs",
               "RelativeToolTip": "Services\\CustomerAuthenticationService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAIAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T08:49:55.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
-              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:39:07.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
@@ -130,25 +117,48 @@
               "RelativeToolTip": "Interfaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:37:11.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T08:37:11.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ShoppingAPI",
+              "Title": "ShoppingAPI.csproj",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\ShoppingAPI.csproj",
               "RelativeDocumentMoniker": "ShoppingAPI.csproj",
               "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\ShoppingAPI.csproj",
               "RelativeToolTip": "ShoppingAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-20T08:36:22.518Z",
+              "WhenOpened": "2024-08-20T08:36:22.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerLoginModel.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Models\\DTOs\\CustomerLoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CustomerLoginModel.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Models\\DTOs\\CustomerLoginModel.cs",
+              "RelativeToolTip": "Models\\DTOs\\CustomerLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:52:01.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:39:07.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -156,12 +166,11 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:26:30.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T08:26:30.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ShoppingCOntext.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Contexts\\ShoppingCOntext.cs",
               "RelativeDocumentMoniker": "Contexts\\ShoppingCOntext.cs",
@@ -169,25 +178,11 @@
               "RelativeToolTip": "Contexts\\ShoppingCOntext.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAIA0wBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:09:50.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T07:09:50.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerLoginModel.cs",
-              "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Models\\DTOs\\CustomerLoginModel.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\CustomerLoginModel.cs",
-              "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Models\\DTOs\\CustomerLoginModel.cs",
-              "RelativeToolTip": "Models\\DTOs\\CustomerLoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:52:01.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -195,12 +190,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T09:01:11.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T09:01:11.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -208,12 +202,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T09:07:16.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T09:07:16.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20240820083524_CustomerUpdates.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Migrations\\20240820083524_CustomerUpdates.cs",
               "RelativeDocumentMoniker": "Migrations\\20240820083524_CustomerUpdates.cs",
@@ -221,12 +214,11 @@
               "RelativeToolTip": "Migrations\\20240820083524_CustomerUpdates.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T08:35:25.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T08:35:25.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20240819071017_init.cs",
               "DocumentMoniker": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day3\\ShoppingAPI\\Migrations\\20240819071017_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20240819071017_init.cs",
@@ -234,8 +226,7 @@
               "RelativeToolTip": "Migrations\\20240819071017_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:10:17.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T07:10:17.122Z"
             }
           ]
         }

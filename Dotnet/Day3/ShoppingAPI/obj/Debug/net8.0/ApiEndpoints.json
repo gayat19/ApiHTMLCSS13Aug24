@@ -14,5 +14,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingAPI.Controllers.CustomerAuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/CustomerAuthentication/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ShoppingAPI.Models.DTOs.CustomerLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

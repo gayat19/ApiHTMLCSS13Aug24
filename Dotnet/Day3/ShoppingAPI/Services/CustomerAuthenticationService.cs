@@ -16,7 +16,17 @@ namespace ShoppingAPI.Services
         }
         public bool Login(CustomerLoginModel model)
         {
-            throw new NotImplementedException();
+            var user = _customerRepository.Get(model.Id);
+            if (user == null)
+                return false;
+            HMACSHA256 hMACSHA = new HMACSHA256(user.Key);
+            var userPass = hMACSHA.ComputeHash(Encoding.UTF8.GetBytes(model.Password));
+            for (int i = 0; i < userPass.Length; i++)
+            {
+                if (userPass[i] != user.Password[i])
+                    return false;
+            }
+            return true;
         }
 
         public bool Register(CustomerLoginModel model)

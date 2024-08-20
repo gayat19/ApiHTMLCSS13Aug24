@@ -23,5 +23,14 @@ namespace ShoppingAPI.Controllers
             else
                 return Unauthorized("Unable to add user");
         }
+        [HttpPost]
+        [Route("Login")]
+        public ActionResult Login(CustomerLoginModel model)
+        {
+            if (_customerAuthentication.Login(model))
+                return Ok("Login success");
+            else
+                return Unauthorized("Invalid username or password");
+        }
     }
 }
