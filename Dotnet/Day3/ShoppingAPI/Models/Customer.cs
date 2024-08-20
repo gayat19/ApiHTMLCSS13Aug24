@@ -3,10 +3,12 @@
     public class Customer
     {
         public int Id { get; set; }
+        public byte[] Password { get; set; }
+        public byte[] Key { get; set; }
         public Cart  Cart { get; set; }
         public Customer()
         {
-            Cart = new Cart();
+            //Cart = new Cart();
         }
     }
 }

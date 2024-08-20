@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using ShoppingAPI.Contexts;
+using ShoppingAPI.Interfaces;
+using ShoppingAPI.Models;
+using ShoppingAPI.Repositories;
+using ShoppingAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +18,9 @@ builder.Services.AddDbContext<ShoppingCOntext>(opts =>
 {
     opts.UseSqlServer(builder.Configuration.GetConnectionString("shoppingConnection"));
 });
+
+builder.Services.AddScoped<IRepository<int,Customer>,CustomerRepository>();
+builder.Services.AddScoped<ICustomerAuthentication,CustomerAuthenticationService>();
 
 var app = builder.Build();
 

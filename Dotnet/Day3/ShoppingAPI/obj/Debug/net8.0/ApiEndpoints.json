@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "ShoppingAPI.Controllers.CustomerAuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/CustomerAuthentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ShoppingAPI.Models.DTOs.CustomerLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
