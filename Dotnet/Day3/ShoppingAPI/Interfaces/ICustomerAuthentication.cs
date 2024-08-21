@@ -4,7 +4,7 @@ namespace ShoppingAPI.Interfaces
 {
     public interface ICustomerAuthentication
     {
-        bool Login(CustomerLoginModel model);
+        AuthenticationResponseModel Login(CustomerLoginModel model);
         bool Register(CustomerLoginModel model);
     }
 }

@@ -30,5 +30,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingAPI.Controllers.ShoppingController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Shopping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingAPI.Controllers.ShoppingController",
+    "Method": "GetOrders",
+    "RelativePath": "api/Shopping",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "ShoppingAPI.Models.DTOs.CustomerLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

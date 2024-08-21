@@ -136,3 +136,4 @@ D:\Corp\Dover\Participants\Dotnet\Day3\ShoppingAPI\obj\Debug\net8.0\refint\Shopp
 D:\Corp\Dover\Participants\Dotnet\Day3\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.pdb
 D:\Corp\Dover\Participants\Dotnet\Day3\ShoppingAPI\obj\Debug\net8.0\ShoppingAPI.genruntimeconfig.cache
 D:\Corp\Dover\Participants\Dotnet\Day3\ShoppingAPI\obj\Debug\net8.0\ref\ShoppingAPI.dll
+D:\Corp\Dover\Participants\Dotnet\Day3\ShoppingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

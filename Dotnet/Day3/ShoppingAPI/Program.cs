@@ -1,9 +1,12 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using ShoppingAPI.Contexts;
 using ShoppingAPI.Interfaces;
 using ShoppingAPI.Models;
 using ShoppingAPI.Repositories;
 using ShoppingAPI.Services;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +17,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+string tokenKey = builder.Configuration.GetSection("TokenKey").Value.ToString();
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateAudience = false,
+        ValidateIssuer = false,
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(tokenKey))
+    };
+});
 builder.Services.AddDbContext<ShoppingCOntext>(opts =>
 {
     opts.UseSqlServer(builder.Configuration.GetConnectionString("shoppingConnection"));
@@ -21,6 +36,7 @@ builder.Services.AddDbContext<ShoppingCOntext>(opts =>
 
 builder.Services.AddScoped<IRepository<int,Customer>,CustomerRepository>();
 builder.Services.AddScoped<ICustomerAuthentication,CustomerAuthenticationService>();
+builder.Services.AddScoped<ITokenService,TokenService>();
 
 var app = builder.Build();
 
@@ -32,6 +48,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseAuthentication();
 
 app.UseAuthorization();
 

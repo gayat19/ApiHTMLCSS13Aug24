@@ -27,10 +27,17 @@ namespace ShoppingAPI.Controllers
         [Route("Login")]
         public ActionResult Login(CustomerLoginModel model)
         {
-            if (_customerAuthentication.Login(model))
-                return Ok("Login success");
-            else
-                return Unauthorized("Invalid username or password");
+            try
+            {
+                var login = _customerAuthentication.Login(model);
+                if (login != null)
+                    return Ok(login);
+            }
+            catch (Exception ex)
+            {
+
+            }
+            return Unauthorized("Invalid username or password");
         }
     }
 }
