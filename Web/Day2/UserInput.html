@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body bgcolor="lightgreen">
+    <h2 align="center">User Input</h2>
+    <form action="../Day1/ThirdPage.html">
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>
+                    <input type="text" required placeholder="Full Name" />
+                </td>
+            </tr>
+            <tr>
+                <td>Age</td>
+                <td>
+                    <input type="number" min="18" max="100" />
+                </td>
+            </tr>
+            <tr>
+                <td>Date of Birth</td>
+                <td>
+                    <input type="date" />
+                </td>
+            </tr>
+            <tr>
+                <td>Fav Color</td>
+                <td>
+                    <input type="color" />
+                </td>
+            </tr>
+            <tr>
+                <td>Your Pic</td>
+                <td>
+                    <input type="file" />
+                </td>
+            </tr>
+            <tr>
+                <td><label>Gender</label></td>
+                <td>
+                    <input type="radio" name="rdbGender" />Female
+                    <input type="radio" name="rdbGender" />Male
+                </td>
+            </tr>
+            <tr>
+                <td><label>Graduation</label></td>
+                <td>
+                    <input type="checkbox" />UG
+                    <input type="checkbox" />PG
+                </td>
+            </tr>
+            <tr>
+                <td><label>Country</label></td>
+                <td>
+                    <!--<select>
+                        <option value="India">India</option>
+                        <option value="China">China</option>
+                        <option value="UK">UK</option>
+                        <option value="USA">USA</option>
+                    </select>-->
+                    <input list="countries"/>
+                    <datalist id="countries">
+                        <option value="India">India</option>
+                        <option value="China">China</option>
+                        <option value="UK">UK</option>
+                        <option value="USA">USA</option>
+                    </datalist>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" />
+                </td>
+                <td>
+                    <input type="reset" />
+                </td>
+            </tr>
+
+        </table>
+    </form>
+</body>
+</html>

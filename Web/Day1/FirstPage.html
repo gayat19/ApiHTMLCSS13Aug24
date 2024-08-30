@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>My Profile Page</title>
+    <style>
+        body{
+            background-color:darkslategrey;
+            align-items:safe center;
+        }
+        a{
+            border-radius:20px;
+            background-color:antiquewhite;
+            font-size:small;
+            text-decoration:none;
+            /*border-color:black   ;
+            border-width:2px;
+            border-style:double;*/
+            border:yellow 2px, solid;
+            margin-right:5px;
+            padding:2px 4px;
+        }
+        #menu {
+            width: 100px;
+            display: flex;
+            flex-direction: row;
+            flex-flow: row-reverse wrap;
+            margin-bottom: 5px;
+        }
+        #main {
+           
+        }
+        iframe {
+            flex-grow: 3;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">	&#128517;Hello Everyone!!!</h1>
+
+    <div id="menu">
+        <a target="main" href="SecondPage.html">Video page</a>
+        <a target="main" href="ThirdPage.html">Content page</a>
+        <a target="main" href="../Day2/UserInput.html">Input Page</a>
+    </div>
+    <div id="main">
+        <iframe height="800" width="800" name="main">
+        </iframe>
+    </div>
+</body>
+</html>

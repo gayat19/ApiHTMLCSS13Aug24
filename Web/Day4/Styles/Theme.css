@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url("../media/images/background.jpg");
+    background-repeat: no-repeat;
+    /*background-color:aquamarine;*/
+}
+.pageHeading{
+    font-size:3em;
+    align-content:center;
+    text-align:center;
+}
+.maintheme{
+    background-color:mintcream;
+    color:olive;
+}
+#divproducts {
+   padding:5px;
+}
+.divproduct{
+    height:30%;
+    width:175px;
+    padding:2px;
+    border:lightgreen 2px solid;
+
+}
+.btnBuy{
+    background-color:darkgreen;
+    color:white;
+    text-align:center;
+    font-family:'Monotype Corsiva';
+    font-size:2em;
+
+}
+.btnBuy:hover{
+    cursor:wait;
+}
