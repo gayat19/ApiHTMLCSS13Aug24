@@ -1,0 +1,11 @@
+<p class="alert alert-success">first works!</p>
+<i [class]="className" (click)="toggleIcon()"></i>{{n1}}
+<!-- <i class="bi bi-arrow-up-circle-fill"></i> -->
+<div>
+    {{name}}
+    {{n1*n2+n1-87/2}}
+</div>
+<hr>
+<input #un type="text" [value]="name" (change)="changeName(un.value)">
+<hr/>
+<input type="text" [(ngModel)]="name">
