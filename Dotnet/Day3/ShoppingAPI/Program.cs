@@ -19,6 +19,10 @@ builder.Services.AddSwaggerGen();
 
 string tokenKey = builder.Configuration.GetSection("TokenKey").Value.ToString();
 
+builder.Services.AddCors(opts =>
+{
+    opts.AddPolicy("AppCors", opt => { opt.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin(); });
+});
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
     options.TokenValidationParameters = new TokenValidationParameters
@@ -51,6 +55,7 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 
 app.UseAuthorization();
+app.UseCors("AppCors");
 
 app.MapControllers();
 

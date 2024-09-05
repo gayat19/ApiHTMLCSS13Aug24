@@ -1,0 +1,15 @@
+div{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    div{
+        margin-top: 10px;
+    }
+}
+button{
+    margin-top: 10px;
+    margin-right: 30%;
+}

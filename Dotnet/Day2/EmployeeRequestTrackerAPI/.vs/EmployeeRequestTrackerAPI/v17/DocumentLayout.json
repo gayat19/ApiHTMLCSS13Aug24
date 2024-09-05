@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -50,8 +54,7 @@
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAiwCQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T06:30:47.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T06:30:47.836Z"
             },
             {
               "$type": "Document",
@@ -63,8 +66,7 @@
               "RelativeToolTip": "Services\\EmployeeService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAiwB0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T06:15:54.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T06:15:54.492Z"
             },
             {
               "$type": "Document",
@@ -76,8 +78,7 @@
               "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T06:12:24.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T06:12:24.594Z"
             },
             {
               "$type": "Document",
@@ -89,8 +90,7 @@
               "RelativeToolTip": "Exceptions\\UnableToAddException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:24:48.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T05:24:48.594Z"
             },
             {
               "$type": "Document",
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
               "ToolTip": "D:\\Corp\\Dover\\Participants\\Dotnet\\Day2\\EmployeeRequestTrackerAPI\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAgwEcAAAAAAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T05:19:45.361Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "Interfaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:14:43.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T05:14:43.188Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAmwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:12:59.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T05:12:59.069Z"
             }
           ]
         }

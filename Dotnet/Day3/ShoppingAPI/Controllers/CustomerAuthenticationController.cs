@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ShoppingAPI.Interfaces;
 using ShoppingAPI.Models.DTOs;
@@ -7,6 +8,7 @@ namespace ShoppingAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AppCors")]
     public class CustomerAuthenticationController : ControllerBase
     {
         private readonly ICustomerAuthentication _customerAuthentication;
