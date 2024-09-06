@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { ProductService } from '../product.service';
 import { FormsModule } from '@angular/forms';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-products',
@@ -13,7 +14,7 @@ import { FormsModule } from '@angular/forms';
 export class ProductsComponent {
   pname:string;
   products:any;
-constructor(private productService: ProductService) {
+constructor(private productService: ProductService,private router:Router) {
   this.pname = productService.getProductName(); 
   this.productService.getProducts().subscribe((data)=>{
     this.products = data;
@@ -24,5 +25,8 @@ constructor(private productService: ProductService) {
 chanegName(){
   this.productService.setProductName(this.pname);
 
+}
+viewDetails(pid:number){
+  this.router.navigate(['/product',pid]);
 }
 }

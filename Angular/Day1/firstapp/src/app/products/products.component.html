@@ -2,13 +2,13 @@
 <!-- <input type="text" [(ngModel)]="pname">
 <button (click)="chanegName()">Add Product</button> -->
 <div id="products">
-  @for (product of products; track product.name) {
+  @for (product of products; track product.id) {
     <div class="card" style="width: 18rem;">
         <img class="card-img-top" [src]="product.thumbnail" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">{{product.title}}</h5>
           <p class="card-text">{{product.description}}</p>
-          <a href="#" class="btn btn-primary">Buy &#64; {{product.price}} 
+          <a (click)="viewDetails(product.id)" class="btn btn-primary">Buy &#64; {{product.price}} 
             @if(product.price>15) {
               <span >with 15% off</span>
             }

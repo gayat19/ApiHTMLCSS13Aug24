@@ -1,0 +1,17 @@
+<p>product works!</p>
+<h1 class="alert alert-warning">{{product.title}}</h1>
+<hr>
+<div>
+    <h2>Buy for {{product.price}}</h2><img [src]="product.thumbnail" alt="product image" class="img-thumbnail">
+    @for(img of product.images; track img) {
+        <img [src]="img" alt="product image" class="img-thumbnail">
+    }
+    <hr>
+    @for(feedback of feedbacks; track feedback.reviewerEmail) {
+        <div class="alert alert-info">
+            <h4>{{feedback.comment}}</h4>
+            <p>{{feedback.date}}</p>
+            <p>{{feedback.reviewerEmail}}</p>
+        </div>
+    }
+</div>

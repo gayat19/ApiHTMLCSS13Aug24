@@ -19,4 +19,7 @@ productName:string;
    public getProducts(){
     return this.http.get('https://dummyjson.com/products');
    }
+   public getProduct(pid:number){
+    return this.http.get('https://dummyjson.com/products/'+pid);
+   }
 }
